@@ -1,9 +1,9 @@
 # product-service
 
 Please find the instructions as follows:
-1.First run the file product-pricing-service.jar in the command prompt with the command "java -Dserver.port=8082 -jar product-pricing-service.jar"
-2.Next run the file product-service.jar in the command prompt with the command "java -Dserver.port=8081 -jar product-service.jar"
-3.Please find the REST API call details as follows
+1.First run the file product-pricing-service.jar in the command prompt with the command "java -Dserver.port=8082 -jar product-pricing-service.jar" 
+2.Next run the file product-service.jar in the command prompt with the command "java -Dserver.port=8081 -jar product-service.jar" 
+3.Please find the REST API call details as follows 
 
 	A.Get Product related information using productId
 	URL: localhost:8081/products/{productId}
